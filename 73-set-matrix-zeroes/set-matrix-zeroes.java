@@ -29,7 +29,6 @@ class Solution {
         if (firstRowZero) {
             for (int j = 0; j < COL; j++) {
                 matrix[0][j] = 0;
-            
             }
         }
     }
