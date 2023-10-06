@@ -14,15 +14,4 @@ class MyHashMap {
 	public int get(int key) { return mapArray[key]; }
 
 	public void remove(int key) { mapArray[key] = -1; }
-
-	// Drivers code
 }
-
-/**
- * Your MyHashMap object will be instantiated and called as such:
- * MyHashMap obj = new MyHashMap();
- * obj.put(key,value);
- * int param_2 = obj.get(key);
- * obj.remove(key);
- */
-// Java program to design HashMap
