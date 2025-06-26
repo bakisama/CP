@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bakisama/CP/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/bakisama/CP/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/bakisama/CP/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bakisama/CP/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bakisama/CP/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
