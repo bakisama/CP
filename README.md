@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/bakisama/CP/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bakisama/CP/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/bakisama/CP/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bakisama/CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/bakisama/CP/tree/master/0217-contains-duplicate) |
 | [0817-design-hashmap](https://github.com/bakisama/CP/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0042-trapping-rain-water](https://github.com/bakisama/CP/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bakisama/CP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bakisama/CP/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bakisama/CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
