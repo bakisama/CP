@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bakisama/CP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/bakisama/CP/tree/master/0217-contains-duplicate) |
 | [0817-design-hashmap](https://github.com/bakisama/CP/tree/master/0817-design-hashmap) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/bakisama/CP/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
